@@ -1,6 +1,8 @@
 # gulp-angular-jsx
 Gulp plugin for [angular-jsx](https://www.github.com/thesam/angular-jsx).
 
+Based on the gulpPrefixer example plugin.
+
 ## Example 1
 ### Input
 ```
