@@ -1,6 +1,6 @@
 {
   "name": "gulp-angular-jsx",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Gulp plugin for using JSX in Angular templates.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "angular-jsx": "^0.0.5",
+    "angular-jsx": "^0.0.9",
     "gulp-util": "^3.0.6",
     "through2": "^2.0.0"
   },
